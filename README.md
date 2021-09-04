@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MicaelBeilke
 - 👀 I’m interested in programming and desevolving sistem 
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to learn
 - 📫 How to reach me micaelboaventurabeilke@gmail.com
 
 <!---
